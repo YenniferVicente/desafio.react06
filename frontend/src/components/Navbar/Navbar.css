@@ -1,0 +1,39 @@
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 0;
+  flex-direction: row;
+}
+
+nav button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: color 0.3s;
+}
+
+nav h4 {
+  margin-inline-end: 20px;
+}
+
+.total {
+  margin-left: auto;
+}
+
+.boton1, .boton2 {
+  text-decoration: none; 
+  border: solid black 2px; 
+  padding: 5px; 
+  padding-inline: 10px;
+}
+
+.boton2 {
+  color: white; 
+  background-color: black;
+}
+
